@@ -10,7 +10,7 @@
 
 </div>
 
-- Desenvolvendo verdadeiras inovações
+- Desenvolvendo inovações
 - Apaixonado por tecnologia
 - Análise e Desenvolvimento de Sistemas
 - Faço um ótimo café
