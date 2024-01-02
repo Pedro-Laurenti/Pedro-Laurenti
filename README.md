@@ -12,10 +12,9 @@
 
 - Desenvolvendo inovações
 - Apaixonado por tecnologia
-- Análise e Desenvolvimento de Sistemas
-- Faço um ótimo café
-
-<button> a </button>
+- Front-End Developer
+-   
+- Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
 
