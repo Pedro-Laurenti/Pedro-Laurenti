@@ -13,7 +13,7 @@
 - Desenvolvendo inovações
 - Apaixonado por tecnologia
 - Front-End Developer
--   
+- Web Development
 - Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
