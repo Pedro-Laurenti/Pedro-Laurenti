@@ -1,10 +1,9 @@
 <div align = "center">
-
+  
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=3489eb" width = "100%" >
 
 <img src = "https://readme-typing-svg.demolab.com?font=Nunit&size=20&duration=800&pause=1000&color=3489EB&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+Github!;Hello%2C+welcome+to+my+Github!" width = "100%">
 
-<br>
 <br>
 <br>
 
@@ -20,15 +19,21 @@
 ![PHP](https://img.shields.io/badge/PHP-863bbf?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![R Studio](https://img.shields.io/badge/R%20Studio-4e6cd9?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 
+<br>
+<br>
+
 ### Design Skills:
 ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=red)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-yellow?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-blue?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
 ![Adobe Indesign](https://img.shields.io/badge/Adobe%20Indesign-pink?style=for-the-badge&logo=Adobe%20Indesign)&nbsp;
 
+<br>
+<br>
+
 ### Currently studying:
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.JS](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Vue.JS](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%2361DAFB)&nbsp;
 
 </div>
 
@@ -56,6 +61,6 @@
 </div>
 
 <br>
-
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3489eb&height=120&section=footer"/>
