@@ -1,28 +1,61 @@
 <div align = "center">
 
-<img src = "helllo.gif" width = "80%">
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=3489eb" width = "100%" >
+
+<img src = "https://readme-typing-svg.demolab.com?font=Nunit&size=20&duration=800&pause=1000&color=3489EB&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+Github!;Hello%2C+welcome+to+my+Github!" width = "100%">
+
+<br>
+<br>
+<br>
+
+### Dev skills:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-863bbf?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![R Studio](https://img.shields.io/badge/R%20Studio-4e6cd9?style=for-the-badge&logo=R&logoColor=white)&nbsp;
+
+### Design Skills:
+![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=red)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-yellow?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-blue?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
+![Adobe Indesign](https://img.shields.io/badge/Adobe%20Indesign-pink?style=for-the-badge&logo=Adobe%20Indesign)&nbsp;
+
+### Currently studying:
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.JS](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%2361DAFB)
+
+</div>
 
 <br>
 
-<h2> 🚀 Bem-vindo ao meu Github! </h2>
+> #### LIFE GOALS:
+> - [x] Script ```hello-world.js```
+> - [ ] Full Stack development
+> - [ ] Develop software and sell it
+> - [ ] Earn enough to live in Brazil (😥)
+> - [ ] Marry
 
-<p>  É bom ter você por aqui! </p>
-
-</div>
-
-- Desenvolvendo inovações
-- Apaixonado por tecnologia
-- Front-End Developer
-- Web Development
-- Estudante de Análise e Desenvolvimento de Sistemas
+<br>
 
 ---
 
-<div flex-direction="row" display="flex" justify-content="space-evenly" width="100%" align-itens="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;  
+<br>
+
+<div align="center">
+  
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedro-laurenti&show_icons=true&count_private=true&hide_border=true&title_color=3489EB&icon_color=3489EB&text_color=c9d1d9&bg_color=0d1117" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-laurenti&exclude_repo=github-readme-stats,pedro-laurenti.github.io&layout=compact&hide_border=true&title_color=3489EB&text_color=c9d1d9&bg_color=0d1117" />
+
 </div>
+
+<br>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3489eb&height=120&section=footer"/>
