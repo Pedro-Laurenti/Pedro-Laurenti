@@ -43,9 +43,7 @@
 > #### LIFE GOALS:
 > - [x] Script ```hello-world.js```
 > - [ ] Full Stack development
-> - [ ] Develop software and sell it
-> - [ ] Earn enough to live in Brazil (😥)
-> - [ ] Marry
+> - [ ] Develop software
 
 <br>
 
