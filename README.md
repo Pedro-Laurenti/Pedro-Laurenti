@@ -41,9 +41,9 @@
 <br>
 
 > #### LIFE GOALS:
-> - [x] Script ```hello-world.js```
-> - [ ] Full Stack development
-> - [ ] Develop software
+> - [x] Type ```hello-world.js```
+> - [ ] Master Full Stack development and brew the perfect cup of coffee
+> - [ ] Develop and sell a software product that's entirely my own
 
 <br>
 
