@@ -18,13 +18,10 @@
 
 ![Python](https://img.shields.io/badge/Python-4e6cd9?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![R Studio](https://img.shields.io/badge/R%20Studio-4e6cd9?style=for-the-badge&logo=R&logoColor=white)&nbsp;
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Javascript&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![SCSS](https://img.shields.io/badge/Scss-black?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-
 ![Rust](https://img.shields.io/badge/rust-D33847.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -33,7 +30,6 @@
 ![selenium](https://img.shields.io/badge/selenium-4e6cd9?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
 ![django](https://img.shields.io/badge/django-4e6cd9?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![pandas](https://img.shields.io/badge/pandas-4e6cd9?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
@@ -41,7 +37,6 @@
 ![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron&logoColor=white)&nbsp;
 ![Ionic](https://img.shields.io/badge/Ionic-black?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
 ![Ionic](https://img.shields.io/badge/react_native-black?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-
 ![rocket](https://img.shields.io/badge/rocket-D33847?style=for-the-badge&logo=rocket&logoColor=white)&nbsp;
 ![tauri](https://img.shields.io/badge/tauri-D33847?style=for-the-badge&logo=tauri&logoColor=white)&nbsp;
 ![yubico](https://img.shields.io/badge/yubico-D33847?style=for-the-badge&logo=tauri&logoColor=white)&nbsp;
