@@ -43,7 +43,7 @@
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/PostgreSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![surrealdb](https://img.shields.io/badge/surrealdb-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)&nbsp;
 
 </div>
